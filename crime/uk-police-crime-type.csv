@@ -1,0 +1,16 @@
+Crime Type,Incidents,CDSNV,CDSDV,CDSSTREET,Description
+Anti-social behaviour,22448,1,,1,"Includes personal, environmental and nuisance anti-social behaviour."
+Bicycle theft,899,1,,1,Includes the taking without consent or theft of a pedal cycle.
+Burglary,4077,1,,1,Includes offences where a person enters a house or other building with the intention of stealing.
+Criminal damage and arson,6631,,,1,Includes damage to buildings and vehicles and deliberate damage by fire.
+Drugs,1452,1,,1,"Includes offences related to possession, supply and production."
+Other crime,670,1,,,"Includes forgery, perjury and other miscellaneous crime."
+Other theft,4964,1,,,"Includes theft by an employee, blackmail and making off without payment."
+Possession of weapons,245,1,,1,"Includes possession of a weapon, such as a firearm or knife."
+Public disorder and weapons,,,,1,"Includes offences which cause fear, alarm, distress or a possession of a weapon such as a firearm."
+Public order,2558,1,,1,"Includes offenses which cause fear, alarm or distress."
+Robbery,365,,,1,Includes offences where a person uses force or threat of force to steal.
+Shoplifting,4407,1,,,Includes theft from shops or stalls.
+Theft from the person,541,1,,1,"Includes crimes that involve theft directly from the victim (including handbag, wallet, cash, mobile phones) but without the use or threat of physical force."
+Vehicle crime,3549,1,,,Includes theft from or of a vehicle or interference with a vehicle.
+Violence and sexual offences,12719,,,1,"Includes offenses against the person such as common assaults, Grievous Bodily Harm and sexual offences."

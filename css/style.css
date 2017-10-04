@@ -1,0 +1,7 @@
+html {
+  font-size: 120% !important;
+}
+.content h4, .content h5, .content .small-heading, body:not(.big-h3) .content h3 {
+  color: #DD2880;
+  font-size: 150%;
+}

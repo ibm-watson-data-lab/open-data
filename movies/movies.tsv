@@ -1,0 +1,596 @@
+id	name	year	rating	runtime	genre	earnings_rank
+499549	Avatar	2009	PG13	162	A,V,Y,S	1
+120338	Titanic	1997	PG13	194	D,R	2
+848228	The Avengers	2012	PG13	143	A	3
+468569	The Dark Knight	2008	PG13	152	A,T	4
+76759	Star Wars	1977	PG	121	A,V,Y,S	5
+1345836	The Dark Knight Rises	2012	PG13	165	A	6
+298148	Shrek 2	2004	PG	92	V,N,C,F,Y	7
+83866	E.T. the Extra-Terrestrial	1982	PG	115	V,F,Y,S	8
+120915	Star Wars: Episode I - The Phantom Menace	1999	PG	133	A,V,S	9
+383574	Pirates of the Caribbean: Dead Man's Chest	2006	PG13	150	A,V,C,Y	10
+435761	Toy Story 3	2010	G	103	V,N,C,F,Y	11
+1392170	The Hunger Games	2012	PG13	142	A	12
+145487	Spider-Man	2002	PG13	121	A,Y,S,T	13
+1055369	Transformers: Revenge of the Fallen	2009	PG13	150	A,V,S	14
+1201607	Harry Potter and the Deathly Hallows: Part 2	2011	PG13	130	V,D,Y,M	15
+121766	Star Wars: Episode III - Revenge of the Sith	2005	PG13	140	A,V,Y,S	16
+167260	Lord of the Rings: The Return of the King, The	2003	PG13	201	A,V,Y	17
+316654	Spider-Man 2	2004	PG13	127	A,Y,S,T	18
+335345	Passion of the Christ, The	2004	R	127	D	19
+107290	Jurassic Park	1993	PG13	127	A,V,H,S	20
+1399103	Transformers: Dark of the Moon	2011	PG13	157	A,V,S	21
+167261	Lord of the Rings: The Two Towers, The	2002	PG13	179	A,V,Y	22
+266543	Finding Nemo	2003	G	100	V,N,C,F	23
+413300	Spider-Man 3	2007	PG13	140	A,V,S,T	24
+1014759	Alice in Wonderland	2010	PG	108	V,F,Y	25
+109830	Forrest Gump	1994	PG13	142	C,D	26
+110357	Lion King, The	1994	G	89	V,N,C,F,L	27
+413267	Shrek the Third	2007	PG	92	N,V,C,F,Y	28
+418279	Transformers	2007	PG13	144	A,V,C,S,T	29
+371746	Iron Man	2008	PG13	126	A,V,D,S,T	30
+241527	Harry Potter and the Sorcerer's Stone	2001	PG	152	V,F,Y	31
+367882	Indiana Jones and the Kingdom of the Crystal Skull	2008	PG13	122	A,V	32
+120737	Lord of the Rings: The Fellowship of the Ring, The	2001	PG13	178	A,V,Y	33
+1228705	Iron Man 2	2010	PG13	124	A,V,S	34
+121765	Star Wars: Episode II - Attack of the Clones	2002	PG	143	A,V,S	35
+449088	Pirates of the Caribbean: At World's End	2007	PG13	168	A,V,C,Y	36
+86190	Star Wars: Episode VI - Return of the Jedi	1983	PG	134	A,V,Y,S	37
+116629	Independence Day	1996	PG13	145	A,S	38
+325980	Pirates of the Caribbean: The Curse of the Black Pearl	2003	PG13	143	A,V,C,Y	39
+417741	Harry Potter and the Half-Blood Prince	2009	PG	153	A,V,F,Y,M,R	40
+1325004	The Twilight Saga: Eclipse	2010	PG13	124	D,Y,R	41
+1259571	New Moon	2009	PG13	130	D,Y,R	42
+926084	Harry Potter and the Deathly Hallows: Part 1	2010	PG13	146	V,D,Y,M	43
+167404	Sixth Sense, The	1999	PG13	107	D,M,T	44
+1049413	Up	2009	PG	96	A,V,N,C,F	45
+1375666	Inception	2010	PG13	148	A,M,S,T	46
+373889	Harry Potter and the Order of the Phoenix	2007	PG13	138	A,D,F,Y	47
+363771	The Chronicles of Narnia: The Lion, the Witch and the Wardrobe	2005	PG	140	A,V,D,F,Y	48
+80684	Star Wars: Episode V - The Empire Strikes Back	1980	PG	124	A,V,Y,S	49
+330373	Harry Potter and the Goblet of Fire	2005	PG13	157	V,Y,M,T	50
+99785	Home Alone	1990	PG	103	C,F	51
+234215	Matrix Reloaded, The	2003	R	138	A,S,T	52
+1324999	The Twilight Saga: Breaking Dawn - Part 1	2011	PG13	117	V	53
+290002	Meet the Fockers	2004	PG13	115	C	54
+1119646	The Hangover	2009	R	100	C,M	55
+126029	Shrek	2001	PG	90	V,N,C,F,Y,R	56
+295297	Harry Potter and the Chamber of Secrets	2002	PG	161	V,F,Y,M	57
+317705	The Incredibles	2004	PG	115	A,V,N,C,F,S	58
+948470	The Amazing Spider-Man	2012	PG13	136	A	59
+170016	How the Grinch Stole Christmas	2000	PG	104	C,F,Y	60
+73195	Jaws	1975	PG	124	V,H,T	61
+796366	Star Trek	2009	PG13	127	A,V,S	62
+480249	I Am Legend	2007	PG13	101	D,H,S,T	63
+878804	The Blind Side	2009	PG13	129	D	64
+198781	Monsters, Inc.	2001	G	92	N,C,F,Y	65
+1411697	The Hangover Part II	2011	R	102	C	66
+1323594	Despicable Me	2010	PG	95	N,C,F	67
+96895	Batman	1989	PG13	126	A,Y,T	68
+477347	Night at the Museum	2006	PG	108	A,V,C,F,Y	69
+119654	Men in Black	1997	PG13	98	A,C,S	70
+304141	Harry Potter and the Prisoner of Azkaban	2004	PG	141	V,F,Y	71
+120363	Toy Story 2	1999	G	92	N,C,F,Y	72
+317219	Cars	2006	G	124	N,C,F	73
+315327	Bruce Almighty	2003	PG13	101	C,Y,R	74
+82971	Raiders of the Lost Ark	1981	PG	115	A,V	75
+117998	Twister	1996	PG13	113	A,D,T	76
+259446	My Big Fat Greek Wedding	2002	PG	96	C,R	77
+1298650	Pirates of the Caribbean: On Stranger Tides	2011	PG13	137	A,V,Y	78
+87332	Ghostbusters	1984	PG	105	A,C,Y,S	79
+892791	Shrek Forever After	2010	PG	93	V,N,C,F,Y	80
+86960	Beverly Hills Cop	1984	R	105	A,C	81
+376994	X-Men: The Last Stand	2006	PG13	104	A,V,S,T	82
+407304	War of the Worlds	2005	PG13	116	A,V,S,T	83
+162222	Cast Away	2000	PG13	143	V,D	84
+1217209	Brave	2012	PG	93	N	85
+119567	Lost World: Jurassic Park, The	1997	PG13	129	A,V,H,S,T	86
+286106	Signs	2002	PG13	106	D,H,S,T	87
+448157	Hancock	2008	PG13	92	A,C,D,Y,T	88
+440963	The Bourne Ultimatum	2007	PG13	111	A,V,M,T	89
+266915	Rush Hour 2	2001	PG13	90	A,C,T	90
+910970	WALL-E	2008	G	98	V,N,C,F,R,S	91
+465234	National Treasure: Book of Secrets	2007	PG	124	A,V,C,M,T	92
+1231580	Alvin and the Chipmunks: The Squeakquel	2009	PG	88	N,C,F,Y	93
+107614	Mrs. Doubtfire	1993	PG13	125	C,D	94
+360717	King Kong	2005	PG13	187	A,V,D,T	95
+99653	Ghost	1990	PG13	128	D,Y,R,T	96
+382625	The Da Vinci Code	2006	PG13	149	D,M,T	97
+892769	How to Train Your Dragon	2010	PG	98	V,N,C,F,Y	98
+103639	Aladdin	1992	G	90	N,C,F,Y,L	99
+952640	Alvin and the Chipmunks	2007	PG	92	C,F,Y	100
+1637725	Ted	2012	R	106	C	101
+120815	Saving Private Ryan	1998	R	170	A,D,W	102
+120755	Mission: Impossible II	2000	PG13	123	A,T	103
+441773	Kung Fu Panda	2008	PG	92	A,N,C,F	104
+1277953	Madagascar 3: Europe's Most Wanted	2012	PG	93	N	105
+290334	X2	2003	PG13	133	A,Y,S,T	106
+1482459	The Lorax	2012	PG	86	N	107
+295178	Austin Powers in Goldmember	2002	PG13	94	A,V,C	108
+88763	Back to the Future	1985	PG	111	V,C,S	109
+416449	300	2006	R	117	A,D,W	110
+1596343	Fast Five	2011	PG13	130	A,T	111
+1229238	Mission: Impossible - Ghost Protocol	2011	PG13	133	A	112
+396269	Wedding Crashers	2005	R	119	C,R	113
+988045	Sherlock Holmes	2009	PG13	128	A,V,M,T	114
+367594	Charlie and the Chocolate Factory	2005	PG	115	V,C,F,Y	115
+382932	Ratatouille	2007	G	110	N,C,F	116
+145660	Austin Powers: The Spy Who Shagged Me	1999	PG13	95	A,C	117
+372784	Batman Begins	2005	PG13	141	A,V,Y,T	118
+103064	Terminator 2: Judgment Day	1991	R	137	A,D,S,T	119
+70047	Exorcist, The	1973	R	122	D,H	120
+209163	Mummy Returns, The	2001	PG13	130	A,V,Y	121
+120591	Armageddon	1998	PG13	144	A,S,T	122
+398286	Tangled	2010	PG	100	N,C,F,Y,L,R	123
+348150	Superman Returns	2006	PG13	154	A,V,Y,S	124
+31381	Gone with the Wind	1939	\N	238	D,R,W	125
+213149	Pearl Harbor	2001	PG13	183	A,D,R,W	126
+892782	Monsters vs Aliens	2009	PG	94	A,N,F,S	127
+366548	Happy Feet	2006	PG	109	N,V,C,F,L	128
+97576	Indiana Jones and the Last Crusade	1989	PG13	127	A,V	129
+1080016	Ice Age: Dawn of the Dinosaurs	2009	PG	94	A,V,N,C,F,R	130
+438097	Ice Age: The Meltdown	2006	PG	91	V,N,C,F	131
+351283	Madagascar	2005	PG	86	V,N,C,F	132
+114709	Toy Story	1995	G	81	N,C,F,Y	133
+1216475	Cars 2	2011	G	106	V,N,C,F	134
+1099212	Twilight	2008	PG13	122	D,Y,R,T	135
+120912	Men in Black II	2002	PG13	88	A,C,S	136
+172495	Gladiator	2000	R	155	A,D	137
+1515091	Sherlock Holmes: A Game of Shadows	2011	PG13	129	A	138
+319262	The Day After Tomorrow	2004	PG13	124	A,V,D,S,T	139
+356910	Mr. & Mrs. Smith	2005	PG13	120	A,C,R,T	140
+29583	Snow White and the Seven Dwarfs	1937	\N	83	N,F,L	141
+99348	Dances with Wolves	1990	PG13	180	V,D,E	142
+112462	Batman Forever	1995	PG13	122	A,V,Y,R,T	143
+106977	Fugitive, The	1993	PG13	130	A,M,T	144
+240772	Ocean's Eleven	2001	PG13	116	C,T	145
+462538	The Simpsons Movie	2007	PG13	87	N,C	146
+207201	What Women Want	2000	PG13	127	C,Y,R	147
+177971	Perfect Storm, The	2000	PG13	129	A,V,D,T	148
+119528	Liar Liar	1997	PG13	86	C,Y	149
+77631	Grease	1978	PG	110	C,L,R	150
+163025	Jurassic Park III	2001	PG13	92	A,V,H,S,T	151
+800369	Thor	2011	PG13	115	A,V,Y	152
+117060	Mission: Impossible	1996	PG13	110	A,V,T	153
+133152	Planet of the Apes	2001	PG13	119	A,S	154
+479952	Madagascar: Escape 2 Africa	2008	PG	89	A,V,N,C,F	155
+458525	X-Men Origins: Wolverine	2009	PG13	107	A,Y,S,T	156
+87469	Indiana Jones and the Temple of Doom	1984	PG	118	A,V	157
+1409024	Men in Black 3	2012	PG13	106	A	158
+100405	Pretty Woman	1990	R	119	C,R	159
+386588	Hitch	2005	PG13	118	C,R	160
+1078912	Night at the Museum: Battle of the Smithsonian	2009	PG	105	A,V,C,F,Y	161
+84805	Tootsie	1982	PG	119	C,R	162
+92099	Top Gun	1986	PG	110	A,D,R	163
+1318514	Rise of the Planet of the Apes	2011	PG13	105	A,D,S,T	164
+458339	Captain America: The First Avenger	2011	PG13	124	A,V,S,T	165
+338348	The Polar Express	2004	G	99	V,N,F,Y	166
+1155076	The Karate Kid	2010	PG	140	A,D,F	167
+129387	There's Something About Mary	1998	R	119	C,R	168
+268380	Ice Age	2002	PG	81	V,N,C,F	169
+372183	The Bourne Supremacy	2004	PG13	108	A,V,D,M,T	170
+90555	Crocodile Dundee	1986	PG13	98	V,C	171
+104431	Home Alone 2: Lost in New York	1992	PG	120	C,F	172
+319343	Elf	2003	PG	95	C,F,Y	173
+368891	National Treasure	2004	PG	131	A,V	174
+95953	Rain Man	1988	R	133	C,D	175
+118571	Air Force One	1997	R	124	A,D,T	176
+112384	Apollo 13	1995	PG	140	D	177
+1104001	TRON: Legacy	2010	PG	127	A,V,S,T	178
+133093	Matrix, The	1999	R	136	A,S,T	179
+101414	Beauty and the Beast	1991	G	84	N,F,L,R	180
+120855	Tarzan	1999	G	88	V,N,F	181
+1403865	True Grit	2010	PG13	110	V,D,E	182
+268978	Beautiful Mind, A	2001	PG13	135	D,H,M	183
+299658	Chicago	2002	PG13	113	C,D,L	184
+1454029	The Help	2011	PG13	146	D	185
+1478338	Bridesmaids	2011	R	125	C	186
+830515	Quantum of Solace	2008	PG13	106	A,V,T	187
+486946	Wild Hogs	2007	PG13	100	A,V,C	188
+94137	Three Men and a Baby	1987	PG	102	C,F	189
+381061	Casino Royale	2006	PG13	144	A,V,T	190
+212338	Meet the Parents	2000	PG13	108	C	191
+1190080	2012	2009	PG13	158	A,V,D,S,T	192
+102798	Robin Hood: Prince of Thieves	1991	PG13	143	A,V,D	193
+1302011	Kung Fu Panda 2	2011	PG	91	A,V,N,C,F	194
+212985	Hannibal	2001	R	131	H,T	195
+264464	Catch Me If You Can	2002	PG13	141	D,T	196
+1041829	The Proposal	2009	PG13	108	C,D,R	197
+142342	Big Daddy	1999	PG13	93	C	198
+59742	Sound of Music, The	1965	G	174	D,F,L	199
+800320	Clash of the Titans	2010	PG13	106	A,V,D,Y	200
+1655442	The Artist	2012	PG13	100	C	\N
+1007029	The Iron Lady	2012	PG13	105	D	\N
+1532503	Beginners	2011	R	105	C	\N
+947798	Black Swan	2010	R	108	D,M,T	\N
+1263670	Crazy Heart	2010	R	112	D,R	\N
+1375670	Grown Ups	2010	PG13	102	C	\N
+964517	The Fighter	2010	R	116	D	\N
+1504320	The King's Speech	2010	R	118	D	\N
+1013752	Fast & Furious	2009	PG13	107	A,D,T	\N
+1046173	G.I. Joe: The Rise of Cobra	2009	PG13	118	A,V,S,T	\N
+1205489	Gran Torino	2009	R	116	D	\N
+361748	Inglourious Basterds	2009	R	153	D,T,W	\N
+1013753	Milk	2009	R	128	D,R	\N
+1114740	Paul Blart: Mall Cop	2009	PG	91	A,C,F	\N
+929632	Precious: Based on the Novel Push by Sapphire	2009	R	109	D	\N
+936501	Taken	2009	PG13	93	A,D,T	\N
+976051	The Reader	2009	R	124	D,R	\N
+451079	Horton Hears a Who!	2008	\N	88	V,N,C,F	\N
+795421	Mamma Mia!	2008	PG13	108	C,L,R	\N
+1000774	Sex and the City	2008	R	148	C,D,R	\N
+1010048	Slumdog Millionaire	2008	R	120	D,R	\N
+499448	The Chronicles of Narnia: Prince Caspian	2008	PG	144	A,V,D,Y,T	\N
+887912	The Hurt Locker	2008	R	131	A,D,T,W	\N
+469494	There Will Be Blood	2008	R	158	D	\N
+497465	Vicky Cristina Barcelona	2008	PG13	96	D,R	\N
+467406	Juno	2007	PG13	96	C,D	\N
+478311	Knocked Up	2007	R	129	C,D,R	\N
+465538	Michael Clayton	2007	R	119	A,D,T	\N
+450188	Mome, La	2007	PG13	140	D	\N
+477348	No Country for Old Men	2007	R	122	D,T	\N
+293564	Rush Hour 3	2007	PG13	91	A,C,T	\N
+389860	Click	2006	PG13	107	C,D,Y	\N
+443489	Dreamgirls	2006	PG13	131	D,L	\N
+449059	Little Miss Sunshine	2006	R	101	C,D	\N
+317919	Mission: Impossible III	2006	PG13	126	A,V,T	\N
+327084	Over the Hedge	2006	PG	83	V,N,C,F	\N
+415306	Talladega Nights: The Ballad of Ricky Bobby	2006	PG13	108	A,C	\N
+407887	The Departed	2006	R	151	D,T	\N
+455590	The Last King of Scotland	2006	R	121	D,T	\N
+454921	The Pursuit of Happyness	2006	PG13	117	D	\N
+436697	The Queen	2006	PG13	103	D	\N
+388795	Brokeback Mountain	2005	R	134	D,R	\N
+379725	Capote	2005	R	114	D	\N
+371606	Chicken Little	2005	G	81	A,N,C,F,S	\N
+120667	Fantastic Four	2005	PG13	106	A,V,Y,S	\N
+365737	Syriana	2005	R	126	D,T	\N
+387131	The Constant Gardener	2005	R	129	D,T	\N
+398165	The Longest Yard	2005	PG13	113	A,C,D	\N
+358273	Walk the Line	2005	PG13	136	D,R	\N
+375679	Crash	2004	\N	113	D	\N
+343818	I, Robot	2004	PG13	115	A,S,T	\N
+405159	Million Dollar Baby	2004	PG13	132	D	\N
+350258	Ray	2004	PG13	152	D	\N
+307453	Shark Tale	2004	PG	90	N,C,F	\N
+338751	The Aviator	2004	PG13	170	D	\N
+332452	Troy	2004	R	163	A,V,D,R,W	\N
+305224	Anger Management	2003	PG13	106	C	\N
+172156	Bad Boys II	2003	R	147	A,C,T	\N
+305669	Bringing Down the House	2003	PG13	105	C	\N
+349205	Cheaper by the Dozen	2003	PG	98	C,D	\N
+159365	Cold Mountain	2003	R	152	D,R,W	\N
+286716	Hulk	2003	PG13	138	A,D,S	\N
+242653	Matrix Revolutions, The	2003	R	129	A,S,T	\N
+340855	Monster	2003	R	109	D	\N
+327056	Mystic River	2003	R	137	D,M	\N
+181852	Terminator 3: Rise of the Machines	2003	R	109	A,S,T	\N
+268126	Adaptation.	2002	R	114	C,D	\N
+246460	Die Another Day	2002	PG13	132	A,V,T	\N
+274558	Hours, The	2002	PG13	114	D	\N
+275847	Lilo & Stitch	2002	PG	85	N,C,F,S	\N
+181689	Minority Report	2002	PG13	145	A,D,M,S,T	\N
+253474	Pianist, The	2002	R	150	D,W	\N
+304669	Santa Clause 2, The	2002	G	105	C,F,Y,R	\N
+267913	Scooby-Doo	2002	PG	87	V,C,F,Y,M	\N
+295701	XXX	2002	PG13	124	A,V,T	\N
+252866	American Pie 2	2001	R	105	C	\N
+232500	Fast and the Furious, The	2001	PG13	106	A,T	\N
+280778	Iris	2001	R	91	D	\N
+146316	Lara Croft: Tomb Raider	2001	PG13	100	A,V,Y	\N
+285742	Monster's Ball	2001	NC-17	111	D,R	\N
+139654	Training Day	2001	R	120	D,T	\N
+130623	Dinosaur	2000	PG	82	V,N,F	\N
+195685	Erin Brockovich	2000	R	130	D	\N
+183659	Pollock	2000	R	122	D	\N
+175142	Scary Movie	2000	R	88	C,H	\N
+181865	Traffic	2000	R	147	D,T	\N
+161081	What Lies Beneath	2000	PG13	130	H,M,T	\N
+120903	X-Men	2000	PG13	104	A,Y,S,T	\N
+169547	American Beauty	1999	R	122	D	\N
+185937	Blair Witch Project, The	1999	R	86	H,M,T	\N
+171804	Boys Don't Cry	1999	NC-17	118	D	\N
+124315	Cider House Rules, The	1999	PG13	126	D,R	\N
+172493	Girl, Interrupted	1999	R	127	D	\N
+120689	Green Mile, The	1999	R	188	D,Y	\N
+163187	Runaway Bride	1999	PG	116	C,R	\N
+164912	Stuart Little	1999	PG	84	V,C,F,Y	\N
+120616	The Mummy	1999	PG13	124	A,V,C,Y,H	\N
+120623	A Bug's Life	1998	G	96	V,N,C,F	\N
+120647	Deep Impact	1998	PG13	120	D,S,T	\N
+118998	Doctor Dolittle	1998	PG13	85	C,F	\N
+120685	Godzilla	1998	PG13	140	A,S,T	\N
+122151	Lethal Weapon 4	1998	R	127	A,C,T	\N
+129290	Patch Adams	1998	PG13	115	C,D	\N
+120812	Rush Hour	1998	PG13	97	A,C,T	\N
+138097	Shakespeare in Love	1998	R	122	C,D,R	\N
+120484	Waterboy, The	1998	PG13	90	C	\N
+118564	Affliction	1997	R	114	D	\N
+119822	As Good As It Gets	1997	PG13	139	C,D,R	\N
+119217	Good Will Hunting	1997	R	126	D	\N
+119488	L.A. Confidential	1997	R	138	D,M,T	\N
+118799	Vita e bella, La	1997	PG13	122	C,D,R,W	\N
+115433	101 Dalmatians	1996	G	103	V,C,F	\N
+116209	English Patient, The	1996	R	160	D,R	\N
+116282	Fargo	1996	R	98	C,T	\N
+116695	Jerry Maguire	1996	R	138	C,D,R	\N
+117438	Ransom	1996	R	121	A,D,T	\N
+117500	Rock, The	1996	R	136	A,D,T	\N
+117631	Shine	1996	PG13	105	D,R	\N
+112573	Braveheart	1995	R	177	A,D,W	\N
+112818	Dead Man Walking	1995	R	122	D	\N
+113627	Leaving Las Vegas	1995	R	111	D,R	\N
+113819	Mighty Aphrodite	1995	R	98	C	\N
+114148	Pocahontas	1995	G	81	N,F,L,R	\N
+114814	Usual Suspects, The	1995	R	106	M,T	\N
+109306	Blue Sky	1994	PG13	101	D,R	\N
+109348	Bullets Over Broadway	1994	R	98	C,R	\N
+109707	Ed Wood	1994	R	127	C,D	\N
+109813	Flintstones, The	1994	PG	91	C,F,Y	\N
+111070	Santa Clause, The	1994	PG	97	C,F,Y	\N
+111503	True Lies	1994	R	144	A,V,C,R,T	\N
+106918	Firm, The	1993	R	154	D,T	\N
+107818	Philadelphia	1993	PG13	125	D	\N
+107822	Piano, The	1993	R	121	D,R	\N
+108052	Schindler's List	1993	R	197	D,W	\N
+103776	Batman Returns	1992	PG13	126	A,Y,R,T	\N
+104257	Few Good Men, A	1992	R	138	D,T	\N
+104454	Howards End	1992	PG	140	D	\N
+104714	Lethal Weapon 3	1992	R	118	A,C,T	\N
+104952	My Cousin Vinny	1992	R	120	C	\N
+105323	Scent of a Woman	1992	R	157	C,D	\N
+105417	Sister Act	1992	PG	100	A,C	\N
+105695	Unforgiven	1992	R	131	D,E	\N
+101587	City Slickers	1991	PG13	112	V,C,E	\N
+101889	Fisher King, The	1991	R	137	C,D,Y,R	\N
+102926	Silence of the Lambs, The	1991	R	118	H,T	\N
+99685	Goodfellas	1990	R	145	D	\N
+100157	Misery	1990	R	107	D,H,T	\N
+100486	Reversal of Fortune	1990	R	111	D	\N
+100758	Teenage Mutant Ninja Turtles	1990	PG	93	A,F,Y	\N
+96969	Born on the Fourth of July	1989	R	145	D,W	\N
+97239	Driving Miss Daisy	1989	PG	99	C,D	\N
+97441	Glory	1989	R	122	D,W	\N
+97523	Honey, I Shrunk the Kids	1989	PG	101	V,C,F,S	\N
+97733	Lethal Weapon 2	1989	R	113	A,C,T	\N
+97778	Look Who's Talking	1989	PG13	93	C,R	\N
+97937	My Left Foot	1989	R	98	D	\N
+94606	Accidental Tourist, The	1988	PG	121	D,R	\N
+94608	Accused, The	1988	R	111	D,T	\N
+95159	Fish Called Wanda, A	1988	R	108	C	\N
+96438	Who Framed Roger Rabbit	1988	PG	103	A,N,C,F,Y,T	\N
+92644	Beverly Hills Cop II	1987	R	100	A,C	\N
+93010	Fatal Attraction	1987	R	123	D,H,T	\N
+93389	Last Emperor, The	1987	PG13	160	D	\N
+93565	Moonstruck	1987	PG	102	C,R	\N
+94226	Untouchables, The	1987	R	119	D	\N
+94291	Wall Street	1987	R	125	D	\N
+90830	Children of a Lesser God	1986	R	119	D	\N
+90863	Color of Money, The	1986	R	119	D	\N
+91167	Hannah and Her Sisters	1986	PG13	103	C,D,R	\N
+91763	Platoon	1986	R	120	A,D,W	\N
+88933	Cocoon	1985	PG13	117	V,C,D,S	\N
+89424	Kiss of the Spider Woman	1985	R	120	D	\N
+89755	Out of Africa	1985	PG	150	D,R	\N
+89841	Prizzi's Honor	1985	R	130	C,D,R	\N
+89880	Rambo: First Blood Part II	1985	R	94	A,W	\N
+90203	Trip to Bountiful, The	1985	PG	108	D	\N
+86879	Amadeus	1984	PG	160	D	\N
+87363	Gremlins	1984	PG	106	A,C,Y,H	\N
+87553	Killing Fields, The	1984	R	141	D,W	\N
+87892	Passage to India, A	1984	PG	163	D	\N
+87921	Places in the Heart	1984	PG	112	D	\N
+86423	Tender Mercies	1983	PG	92	D	\N
+86425	Terms of Endearment	1983	PG	132	C,D,R	\N
+83987	Gandhi	1982	PG	188	D	\N
+84434	Officer and a Gentleman, An	1982	R	122	D,R	\N
+84707	Sophie's Choice	1982	R	150	D	\N
+86617	Year of Living Dangerously, The	1982	PG	117	D,R	\N
+82031	Arthur	1981	PG	97	C,R	\N
+82158	Chariots of Fire	1981	PG	123	D	\N
+82846	On Golden Pond	1981	PG	109	D	\N
+82979	Reds	1981	PG	194	D	\N
+80549	Coal Miner's Daughter	1980	PG	125	D	\N
+81150	Melvin and Howard	1980	R	95	C,D	\N
+81283	Ordinary People	1980	R	124	D	\N
+81398	Raging Bull	1980	R	129	D	\N
+78841	Being There	1979	PG	130	C,D	\N
+79417	Kramer vs. Kramer	1979	PG	105	D	\N
+79638	Norma Rae	1979	PG	110	D	\N
+77975	Animal House	1978	R	109	C	\N
+77289	California Suite	1978	PG	103	C,D	\N
+77362	Coming Home	1978	R	126	D,W	\N
+77416	Deer Hunter, The	1978	R	183	D,W	\N
+78346	Superman	1978	PG	143	A,V,S	\N
+75686	Annie Hall	1977	PG	93	C,R	\N
+76095	Goodbye Girl, The	1977	PG	110	C,R	\N
+76245	Julia	1977	PG	118	D	\N
+76666	Saturday Night Fever	1977	PG	118	D,R	\N
+74119	All the President's Men	1976	PG	138	D,T	\N
+74958	Network	1976	R	120	C,D	\N
+75148	Rocky	1976	PG	119	D,R	\N
+73486	One Flew Over the Cuckoo's Nest	1975	R	133	C,D	\N
+73629	Rocky Horror Picture Show, The	1975	R	100	C,H,L,S	\N
+73692	Shampoo	1975	R	109	C,R	\N
+73766	Sunshine Boys, The	1975	PG	111	C	\N
+71115	Alice Doesn't Live Here Anymore	1974	PG	112	D	\N
+71562	Godfather: Part II, The	1974	R	200	D	\N
+71598	Harry and Tonto	1974	R	115	D	\N
+71877	Murder on the Orient Express	1974	PG	128	M	\N
+70509	Paper Chase, The	1973	PG	112	D	\N
+70510	Paper Moon	1973	PG	102	C,D	\N
+70640	Save the Tiger	1973	R	100	D	\N
+70735	Sting, The	1973	PG	129	C,D	\N
+70819	Touch of Class, A	1973	PG	105	C	\N
+68326	Butterflies Are Free	1972	PG	109	C,D,R	\N
+68327	Cabaret	1972	PG	124	D,L,W	\N
+68646	Godfather, The	1972	R	175	D	\N
+67116	French Connection, The	1971	R	104	A,D,T	\N
+67309	Klute	1971	R	114	D,M,T	\N
+67328	Last Picture Show, The	1971	R	118	D	\N
+65377	Airport	1970	G	137	D,T	\N
+66206	Patton	1970	M	170	D,W	\N
+66319	Ryan's Daughter	1970	GP	187	D,R	\N
+64117	Cactus Flower	1969	M	103	C	\N
+64665	Midnight Cowboy	1969	R	113	D	\N
+64840	Prime of Miss Jean Brodie, The	1969	M	116	D	\N
+65088	They Shoot Horses, Don't They?	1969	M	120	D	\N
+65126	True Grit	1969	G	128	V,E	\N
+66579	Women in Love	1969	R	131	D,R	\N
+62794	Charly	1968	PG	103	D,S	\N
+62994	Funny Girl	1968	G	151	D,L,R	\N
+63385	Oliver!	1968	G	153	D,F,L	\N
+63522	Rosemary's Baby	1968	\N	136	D,H,T	\N
+63654	Subject Was Roses, The	1968	G	107	D	\N
+63227	The Lion in Winter	1968	PG	134	D	\N
+61418	Bonnie and Clyde	1967	M	111	D,R	\N
+61512	Cool Hand Luke	1967	\N	126	D	\N
+61722	Graduate, The	1967	PG	105	C,D,R	\N
+61735	Guess Who's Coming to Dinner	1967	\N	108	C,D	\N
+61811	In the Heat of the Night	1967	\N	109	D,M	\N
+61852	Jungle Book, The	1967	G	78	N,C,F,L	\N
+60424	Fortune Cookie, The	1966	\N	125	C,D,R	\N
+60665	Man for All Seasons, A	1966	\N	120	D	\N
+61184	Who's Afraid of Virginia Woolf?	1966	\N	134	D,T	\N
+59017	Cat Ballou	1965	\N	97	C,E	\N
+59084	Darling	1965	\N	128	D	\N
+59573	Patch of Blue, A	1965	\N	105	D	\N
+59798	Thousand Clowns, A	1965	\N	118	C,D,R	\N
+57831	Alexis Zorbas	1964	\N	142	D	\N
+58331	Mary Poppins	1964	G	140	C,D,F,Y,L	\N
+58385	My Fair Lady	1964	G	170	C,D,F,L,R	\N
+58672	Topkapi	1964	\N	119	V,C,T	\N
+57163	Hud	1963	\N	112	D,E	\N
+57251	Lilies of the Field	1963	\N	94	C,D	\N
+57590	Tom Jones	1963	\N	121	V,C,R	\N
+57634	V.I.P.s, The	1963	\N	119	D	\N
+56172	Lawrence of Arabia	1962	PG	216	V,D,W	\N
+56241	Miracle Worker, The	1962	\N	106	D	\N
+56541	Sweet Bird of Youth	1962	\N	120	D	\N
+56592	To Kill a Mockingbird	1962	\N	129	D	\N
+55031	Judgment at Nuremberg	1961	\N	178	D	\N
+55254	One Hundred and One Dalmatians	1961	G	79	N,C,F,T	\N
+55614	West Side Story	1961	\N	151	D,L,R	\N
+53604	Apartment, The	1960	\N	125	C,D,R	\N
+53622	BUtterfield 8	1960	\N	109	D	\N
+54749	Ciociara, La	1960	\N	100	D,W	\N
+53793	Elmer Gantry	1960	\N	146	D	\N
+54331	Spartacus	1960	PG13	184	A,D,R,W	\N
+52618	Ben-Hur	1959	G	212	A,V,D,R	\N
+52738	Diary of Anne Frank, The	1959	\N	180	D,W	\N
+53226	Room at the Top	1959	\N	115	D	\N
+51411	Big Country, The	1958	\N	165	D,R,E	\N
+51658	Gigi	1958	G	119	C,L,R	\N
+51758	I Want to Live!	1958	\N	120	D	\N
+52182	Separate Tables	1958	\N	100	D	\N
+50212	Bridge on the River Kwai, The	1957	PG	161	V,D,W	\N
+50933	Sayonara	1957	\N	147	D,R	\N
+51077	Three Faces of Eve, The	1957	\N	91	D	\N
+48947	Anastasia	1956	\N	105	D	\N
+48960	Around the World in Eighty Days	1956	\N	188	V,C	\N
+49261	Giant	1956	G	201	D	\N
+49408	King and I, The	1956	G	133	V,C,D,F,L,R	\N
+49456	Lust for Life	1956	\N	122	D	\N
+49966	Written on the Wind	1956	\N	99	D	\N
+48028	East of Eden	1955	\N	115	D	\N
+48356	Marty	1955	\N	91	C,D,R	\N
+48380	Mister Roberts	1955	\N	123	C,D,W	\N
+48563	Rose Tattoo, The	1955	\N	117	D,R	\N
+46754	Barefoot Contessa, The	1954	\N	128	D	\N
+46874	Country Girl, The	1954	\N	104	D	\N
+47296	On the Waterfront	1954	\N	108	D,R	\N
+45793	From Here to Eternity	1953	\N	118	D,R,W	\N
+46250	Roman Holiday	1953	\N	118	C,D,R	\N
+46359	Stalag 17	1953	\N	120	C,D,W	\N
+44391	Bad and the Beautiful, The	1952	\N	118	D	\N
+44509	Come Back, Little Sheba	1952	\N	99	D	\N
+44672	Greatest Show on Earth, The	1952	\N	152	D,F,R	\N
+44706	High Noon	1952	\N	85	T,E	\N
+45061	Quiet Man, The	1952	\N	129	C,D,R	\N
+45296	Viva Zapata!	1952	\N	113	D	\N
+43265	African Queen, The	1951	\N	105	V,C,R,W	\N
+43278	American in Paris, An	1951	\N	113	L,R	\N
+43924	Place in the Sun, A	1951	\N	122	D,R	\N
+44081	Streetcar Named Desire, A	1951	\N	122	D	\N
+42192	All About Eve	1950	\N	138	D	\N
+42276	Born Yesterday	1950	\N	103	C,D	\N
+42367	Cyrano de Bergerac	1950	\N	112	D	\N
+42546	Harvey	1950	\N	104	C,F,Y	\N
+41113	All the King's Men	1949	\N	109	D	\N
+41452	Heiress, The	1949	\N	115	D,R	\N
+41587	Letter to Three Wives, A	1949	\N	103	C,D	\N
+41996	Twelve O'Clock High	1949	\N	132	D,W	\N
+40416	Hamlet	1948	\N	155	D,R,T	\N
+40495	Johnny Belinda	1948	\N	102	D	\N
+40506	Key Largo	1948	\N	101	D,T	\N
+40897	Treasure of the Sierra Madre, The	1948	\N	126	V,D	\N
+39335	Double Life, A	1947	\N	104	D	\N
+39370	Farmer's Daughter, The	1947	\N	97	C	\N
+39416	Gentleman's Agreement	1947	\N	118	D,R	\N
+39628	Miracle on 34th Street	1947	\N	96	C,D,F,Y,R	\N
+36868	Best Years of Our Lives, The	1946	\N	172	D,R	\N
+38873	Razor's Edge, The	1946	\N	146	D	\N
+39040	To Each His Own	1946	\N	122	D	\N
+37884	Lost Weekend, The	1945	\N	101	D	\N
+37913	Mildred Pierce	1945	\N	111	D,M,R	\N
+38190	Tree Grows in Brooklyn, A	1945	\N	128	D	\N
+36855	Gaslight	1944	\N	114	M,T	\N
+36872	Going My Way	1944	\N	130	C,D	\N
+37120	National Velvet	1944	G	123	D,F	\N
+37135	None But the Lonely Heart	1944	\N	113	D	\N
+35896	For Whom the Bell Tolls	1943	\N	170	V,D,R,W	\N
+36172	More the Merrier, The	1943	\N	104	C	\N
+36377	Song of Bernadette, The	1943	\N	156	D	\N
+36515	Watch on the Rhine	1943	\N	114	D	\N
+34583	Casablanca	1942	PG	102	D,R	\N
+33774	Johnny Eager	1942	\N	107	D,R	\N
+35093	Mrs. Miniver	1942	\N	134	D,R,W	\N
+35575	Yankee Doodle Dandy	1942	\N	126	D	\N
+33677	Great Lie, The	1941	\N	108	D	\N
+33729	How Green Was My Valley	1941	\N	118	D,R	\N
+34167	Sergeant York	1941	\N	134	D,W	\N
+34248	Suspicion	1941	\N	99	M,T	\N
+32551	Grapes of Wrath, The	1940	\N	128	D	\N
+32671	Kitty Foyle: The Natural History of a Woman	1940	\N	108	D	\N
+32904	Philadelphia Story, The	1940	\N	112	C,R	\N
+32976	Rebecca	1940	\N	130	D,M,R,T	\N
+33253	Westerner, The	1940	\N	100	E	\N
+31385	Goodbye, Mr. Chips	1939	\N	114	D	\N
+31971	Stagecoach	1939	\N	96	A,D,R,E	\N
+29942	Boys Town	1938	\N	96	D	\N
+30287	Jezebel	1938	\N	103	D	\N
+30317	Kentucky	1938	\N	95	D,R	\N
+30993	You Can't Take It with You	1938	\N	126	C,R	\N
+28597	Awful Truth, The	1937	\N	91	C,R	\N
+28691	Captains Courageous	1937	\N	115	V,D	\N
+28944	Good Earth, The	1937	\N	138	D	\N
+29047	In Old Chicago	1937	\N	96	A,D,L	\N
+29146	Life of Emile Zola, The	1937	\N	116	D	\N
+27300	Anthony Adverse	1936	\N	141	V,R	\N
+27459	Come and Get It	1936	\N	99	D	\N
+27698	Great Ziegfeld, The	1936	\N	176	L	\N
+27996	Mr. Deeds Goes to Town	1936	\N	115	C	\N
+26261	Dangerous	1935	\N	79	D	\N
+26529	Informer, The	1935	\N	91	D	\N
+26752	Mutiny on the Bounty	1935	\N	132	V,D	\N
+28313	Story of Louis Pasteur, The	1935	\N	87	D	\N
+25316	It Happened One Night	1934	\N	105	V,C,R	\N
+23876	Cavalcade	1933	\N	110	D	\N
+24353	Morning Glory	1933	\N	74	D	\N
+24473	Private Life of Henry VIII., The	1933	\N	97	D	\N
+22958	Grand Hotel	1932	\N	112	D	\N
+21635	Bad Girl	1931	\N	90	D	\N
+21730	Champ, The	1931	\N	87	D	\N
+21746	Cimarron	1931	\N	131	D,E	\N
+21885	Free Soul, A	1931	\N	91	D	\N
+22386	Sin of Madelon Claudet, The	1931	\N	75	D	\N
+22397	Skippy	1931	\N	85	C,D,F	\N
+21148	Min and Bill	1930	\N	66	C,D	\N
+19729	Broadway Melody, The	1929	\N	110	L	\N
+19788	Coquette	1929	\N	76	D	\N
+19824	Divine Lady, The	1929	\N	99	D	\N
+20018	In Old Arizona	1929	\N	95	E	\N
+19071	Last Command, The	1928	\N	85	V,D	\N
+18379	Seventh Heaven	1927	\N	110	D,R	\N
+18515	Two Arabian Knights	1927	\N	90	C,R	\N
+18578	Wings	1927	\N	139	A,D,R,W	\N
